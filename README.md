@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="sql logo" />
   <img width="12" />
   <!-- SAS logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg" height="50" alt="sas logo" />
+  <img src=".github/sas.jpg" height="50" alt="sas image" />
 </div>
 
 ###
