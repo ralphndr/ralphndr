@@ -13,23 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout code
         uses: actions/checkout@v2
 
+      # Step 2: Generate the snake animation
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user: ralphndr
-          output: dist
-          color: blue
-          model: octocat
+          github_user: ralphndr   # Make sure to set this to your GitHub username
+          output: dist            # Ensure the file is saved in the dist folder
+          color: blue             # Optional: Set the snake color
+          model: octocat          # Optional: You can change the model to 'octocat', 'batman', etc.
 
-      - name: Commit snake animation
+      # Step 3: Commit the generated snake.svg
+      - name: Commit and push generated snake.svg
         uses: EndBug/add-and-commit@v7
         with:
           author_name: Ralph Nader
           author_email: ralph.nader@outlook.com
           message: "Update snake animation"
           add: "dist/snake.svg"
-
 
