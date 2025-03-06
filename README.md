@@ -58,4 +58,6 @@
   <img src=".github/sas.jpg" height="50" alt="sas image" />
 </div>
 
+<p align="left"> 🐍 A friendly snake </p>
+
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ralphndr/ralphndr/output/github-contribution-grid-snake.svg" />
