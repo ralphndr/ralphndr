@@ -2,6 +2,8 @@
 
 ###
 
+<h4 align="left">About: </h4>
+
 <p align="left">👨‍💻 I’m an engineering student at ENSAE Paris with a passion for the finance world, always eager to learn and grow through real-world projects.
 
 🔍 A curious student developer, I love diving into coding, problem-solving, and building cool things. Whether it's tackling challenges head-on or learning new technologies, I enjoy exploring the endless possibilities in the world of tech.
@@ -9,6 +11,8 @@
 📫 Feel free to reach out to me using the icons below :) </p>
 
 ###
+
+<h4 align="left">Contact info: </h4>
 
 <div align="left">
   <!-- LinkedIn link -->
@@ -29,7 +33,7 @@
 
 ###
 
-<p align="left">📊 GitHub Stats </p>
+<h4 align="left">📊 GitHub Stats: </h4>
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -42,7 +46,7 @@
 
 ###
 
-<p align="left">🛠️ Languages and tools </p>
+<h4 align="left">🛠️ Languages and tools: </h4>
 
 <div align="left">
   <!-- Enlarged Python logo -->
@@ -57,7 +61,5 @@
   <!-- SAS logo -->
   <img src=".github/sas.jpg" height="50" alt="sas image" />
 </div>
-
-<p align="left"> 🐍 A friendly snake </p>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ralphndr/ralphndr/output/github-contribution-grid-snake.svg" />
