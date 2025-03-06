@@ -1,29 +1,35 @@
-name: Snake
+name: Snake Animation
 
 on:
   push:
     branches:
-      - main  # Change this to your default branch if it's not `main`
-  schedule:
-    - cron: "0 0 * * *"  # This runs the action once every day, adjust if needed
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  snake:
+  generate-snake-animation:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Generate Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user: ${{ github.actor }}
-          # Change the repository name if you want it to be in a different repo.
-          image: "true"
+          github_user: ralphndr
+          output: dist
+          color: blue
+          model: octocat
 
-      - name: Upload Snake
-        uses: actions/upload-artifact@v2
+      - name: Commit snake animation
+        uses: EndBug/add-and-commit@v7
         with:
-          name: snake
-          path: snake.svg
+          author_name: Ralph Nader
+          author_email: ralph.nader@outlook.com
+          message: "Update snake animation"
+          add: "dist/snake.svg"
+
 
