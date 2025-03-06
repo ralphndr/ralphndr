@@ -1,8 +1,31 @@
-<h2 align="left">Hi 👋! My name is Ralph Nader and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋, I am Ralph ! </h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">👨‍💻 I’m an engineering student at ENSAE Paris with a passion for the finance world, always eager to learn and grow through real-world projects.
+
+🔍 A curious student developer, I love diving into coding, problem-solving, and building cool things. Whether it's tackling challenges head-on or learning new technologies, I enjoy exploring the endless possibilities in the world of tech.
+
+📫 Feel free to reach out to me using the icons below :) </p>
+
+###
+
+<div align="left">
+  <!-- LinkedIn link -->
+  <a href="https://www.linkedin.com/in/ralph-nader" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  
+  <!-- Outlook email link -->
+  <a href="mailto:ralphnader@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
+  </a>
+  
+  <!-- Discord link -->
+  <a href="https://discord.com/users/hideon_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+</div>
 
 ###
 
@@ -31,16 +54,4 @@
   <img src=".github/sas.jpg" height="50" alt="sas image" />
 </div>
 
-###
-
-<div align="left">
-  <!-- Reordered Social Links -->
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-<!-- Updated Snake Gif -->
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ralphndr/ralphndr/output/github-contribution-grid-snake.svg" />
-
-
