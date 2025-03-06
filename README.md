@@ -17,7 +17,7 @@
   </a>
   
   <!-- Outlook email link -->
-  <a href="mailto:ralphnader@outlook.com" target="_blank">
+  <a href="mailto:ralph.nader@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
   
@@ -29,6 +29,8 @@
 
 ###
 
+<p align="left">📊 GitHub Stats </p>
+
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <!-- Dark theme for Stats, leaning towards greenish -->
@@ -39,6 +41,8 @@
 </div>
 
 ###
+
+<p align="left">🛠️ Languages and tools </p>
 
 <div align="left">
   <!-- Enlarged Python logo -->
