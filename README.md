@@ -38,10 +38,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ralphndr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ralphndr&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://<your-vercel-project>.vercel.app/api?username=ralphndr&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150" alt="GitHub stats" />
+      <td>
+        <td>
+  <img src="https://<your-vercel-project>.vercel.app/api/top-langs?username=ralphndr&layout=compact&langs_count=5&theme=dark" height="150" alt="Top languages" />
     </td>
   </tr>
 </table>
