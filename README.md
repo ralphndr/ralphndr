@@ -48,13 +48,11 @@
 
 <h4 align="left">🛠️ Languages and tools: </h4>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="sql logo" /></td>
-    <td><img src=".github/sas.jpg" height="50" alt="sas image" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="sql logo" />
+  <img src=".github/sas.jpg" height="50" alt="sas image" />
+</p>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ralphndr/ralphndr/output/github-contribution-grid-snake.svg" />
