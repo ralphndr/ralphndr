@@ -48,15 +48,13 @@
 
 <h4 align="left">🛠️ Languages and tools: </h4>
 
-<div align="left" style="display:flex; align-items:center; gap:12px;">
-  <!-- Enlarged Python logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <!-- Enlarged R logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo" />
-  <!-- SQL logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="sql logo" />
-  <!-- SAS logo -->
-  <img src=".github/sas.jpg" height="50" alt="sas image" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="sql logo" /></td>
+    <td><img src=".github/sas.jpg" height="50" alt="sas image" /></td>
+  </tr>
+</table>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ralphndr/ralphndr/output/github-contribution-grid-snake.svg" />
