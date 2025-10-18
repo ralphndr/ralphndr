@@ -1,10 +1,8 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
-</div>
+# Hi 👋, I am Ralph !
 
 ###
 
-<p align="left">Hi 👋, I am Ralph !<br><br>👨‍💻 I’m an engineering student at ENSAE Paris with a passion for the finance world, always eager to learn and grow through real-world projects.<br><br>🔍 A curious student developer, I love diving into coding, problem-solving, and building cool things. Whether it's tackling challenges head-on or learning new technologies, I enjoy exploring the endless possibilities in the world of tech.<br><br>📫 Feel free to reach out to me using the icons below :)</p>
+<p align="left">👨‍💻 I’m an engineering student at ENSAE Paris with a passion for the finance world, always eager to learn and grow through real-world projects.<br><br>🔍 A curious student developer, I love diving into coding, problem-solving, and building cool things. Whether it's tackling challenges head-on or learning new technologies, I enjoy exploring the endless possibilities in the world of tech.<br><br>📫 Feel free to reach out to me using the icons below :)</p>
 
 ###
 
