@@ -1,5 +1,6 @@
 # Hi 👋, I am Ralph !
 
+##  My GitHub profile is still under development, and some repositories will be added over the next one to two months. 
 ###
 
 <p align="left">👨‍💻 I’m an engineering student at ENSAE Paris with a passion for the finance world, always eager to learn and grow through real-world projects.<br><br>🔍 A curious student developer, I love diving into coding, problem-solving, and building cool things. Whether it's tackling challenges head-on or learning new technologies, I enjoy exploring the endless possibilities in the world of tech.<br><br>📫 Feel free to reach out to me using the icons below :)</p>
