@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"> Ralph NADER </h1>
+<h1 align="center"> Ralph Nader </h1>
 <h3 align="center"> Engineering Student @ ENSAE Paris
   
 ##  My GitHub profile is still under development, and some repositories will be added over the next one to two months. 
