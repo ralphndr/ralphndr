@@ -42,7 +42,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralph-nader)
 [![ENSAE Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralph.nader@ensae.fr)
 
-Feel free to contact me for any collaboration or job opportunity. I am actively seeking a summer internship between June 2026 and August/September 2026 in quant finance or asset management mainly.
+Feel free to contact me for any collaboration or job opportunity. I am actively seeking a summer/off-cycle internship between June 2026 and December 2026 in systematic global macro research.
 
 ###
 
