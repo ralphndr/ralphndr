@@ -1,13 +1,13 @@
 <div align="center">
 
 <h1 align="center"> Ralph Nader </h1>
-<h3 align="center"> Engineering Student @ ENSAE Paris
+<h3 align="center"> MFin @ MIT x MEng @ ENSAE Paris 
   
 ##  My GitHub profile is still under development, and some repositories will be added over the next one to two months. 
 
 ## About me:
 
-<p align="left">👨‍💻 I’m an engineering student at ENSAE Paris with a passion for the finance world, always eager to learn and grow through real-world projects.<br><br>🔍 A curious student developer, I love diving into coding, problem-solving, and building cool things. Whether it's tackling challenges head-on or learning new technologies, I enjoy exploring the endless possibilities in the world of tech.<br><br>📫 Feel free to reach out to me using the icons below :)</p>
+<p align="left">👨‍💻 I’m an engineering student with a passion for the finance world, always eager to learn and grow through real-world projects.<br><br>🔍 A curious student developer, I love diving into coding, problem-solving, and building cool things. Whether it's tackling challenges head-on or learning new technologies, I enjoy exploring the endless possibilities in the world of tech.<br><br>📫 Feel free to reach out to me using the icons below :)</p>
 
 ##  🛠️ Skills: 
 
@@ -42,7 +42,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralph-nader)
 [![ENSAE Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ralph.nader@ensae.fr)
 
-Feel free to contact me for any collaboration or job opportunity. I am actively seeking a summer/off-cycle internship between June 2026 and December 2026 in systematic global macro research.
+Feel free to contact me for any collaboration or job opportunity. I am actively seeking a summer internship between June 2027 and August 2027 in systematic global macro research.
 
 ###
 
