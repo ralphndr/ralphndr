@@ -2,8 +2,6 @@
 
 <h1 align="center"> Ralph Nader </h1>
 <h3 align="center"> MFin @ MIT x MEng @ ENSAE Paris 
-  
-##  My GitHub profile is still under development, and some repositories will be added over the next one to two months. 
 
 ## About me:
 
