@@ -3,8 +3,6 @@
 <h1 align="center"> Ralph Nader </h1>
 <h3 align="center"> MFin @ MIT x MEng @ ENSAE Paris 
 
-## About me:
-
 <p align="left">📫 Feel free to reach out to me using the icons below :)</p>
 
 ##
